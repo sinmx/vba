@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 28
+Win32
+Win32_LIB_Debug
+Debug
+
+END
